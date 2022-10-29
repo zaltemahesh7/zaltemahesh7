@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahesh</h1>
-<h3 align="center">A passionate Back-end developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 - 🌱 I’m currently learning **Node.js, Express.js, Mongo-DB, Mongoose**
 
-- 💬 Ask me about **Node.js, javaScript, Mongodb, C++**
+- 💬 Ask me about **Reactjs, Node.js, javaScript, Mongodb, C++**
 
 - 📫 How to reach me **maheshzalte2000@gmail.com**
 
