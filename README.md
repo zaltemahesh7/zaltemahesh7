@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJs, Node.js, Express.js, Mongo-DB, Mongoose**
 
-- 💬 Ask me about **Node.js, javaScript, ReactJs, Mongodb**
+- 💬 Ask me about **Node.js, javaScript, ReactJs, Mongodb, Python,**
 
 - 📫 How to reach me **maheshzalte2000@gmail.com**
 
