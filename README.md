@@ -18,6 +18,24 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## Experience
+
+### BhojSoft (August 2024 – Present)
+**Software Developer**  
+*Pune, Maharashtra*
+
+- **Backend Development for Ximboa**  
+  Contributed to the backend development of Ximboa, an educational platform designed for trainers and students. Implemented core features, optimized performance, and ensured seamless functionality.
+
+- **Cloud Deployment**  
+  Deployed the application on AWS EC2 instances and AWS Lambda for cost-efficient and scalable solutions. Configured S3 buckets for secure and efficient file storage.
+
+- **Frontend Development**  
+  Developed **Edukite.io** using HTML, TailwindCSS, and JavaScript, delivering a responsive and visually appealing user interface.
+
+- **Quiz Application Backend**  
+  Built a robust backend system for a quiz-taking application, focusing on scalable architecture, secure APIs, and seamless integration with frontend systems.
+
 ## 🎓 Education
 - **M.C.A (Master of Computer Applications)** - Zeal Institute Of Business Administration, Computer Application and Research, Pune (2022-2024, Ongoing)
 - **B.C.S (Bachelor of Computer Science)** - Nutan Vidya Prasarak Mandal’s Arts, Commerce And Science College, Lasalgaon (Graduated Aug 2021, 71.36%)
